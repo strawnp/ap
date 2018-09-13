@@ -1,4 +1,4 @@
 # [CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
+Jesuit High School\\
 2018–2019
