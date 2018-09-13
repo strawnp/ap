@@ -2,7 +2,7 @@
 
 * [CS50 IDE](https://cs50.io/)
 * [CS50 Reference](https://reference.cs50.net/)
-* [GitHub Repository](https://github.com/strawnp/cs50-ap-18-19)
+* [GitHub Repository](https://github.com/strawnp/cs50ap-18-19)
 
 ***
 
